@@ -11,8 +11,6 @@
 
 </div>
 
-![dsada](https://github.com/lucylow/CERN_HEP_Autoencoder/blob/master/physics%20memes%20for%20quantum%20entangled%20teens.png)
-
 
 ---
 
